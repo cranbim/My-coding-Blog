@@ -18,3 +18,5 @@ function coolFunc(){
 }
 ```
 `let numBalls=10`
+
+Try running this [example code](/My-coding-Blog/codeExperiments/clickables/index.html)
