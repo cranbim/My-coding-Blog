@@ -10,3 +10,11 @@ This text is **bold**, while this is *italic*
 
 ![This is image inspired by Vera Molars work. It is a grid of nest squares](/My-coding-Blog/images/veraMolnar.png)
 <img src="/My-coding-Blog/images/veraMolnar.png" alt="some text" width="20%">
+
+Check out the code
+```
+function coolFunc(){
+  //do soemthing cool
+}
+```
+`let numBalls=10`
